@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c91675cc.chunk.css",
+    "main.js": "/static/js/main.ef5248f1.chunk.js",
+    "main.js.map": "/static/js/main.ef5248f1.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.afd6eb18.js",
+    "runtime-main.js.map": "/static/js/runtime-main.afd6eb18.js.map",
+    "static/js/2.d8ab17b2.chunk.js": "/static/js/2.d8ab17b2.chunk.js",
+    "static/js/2.d8ab17b2.chunk.js.map": "/static/js/2.d8ab17b2.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.0b0cb28ea98eda4a179ff884815b5847.js": "/precache-manifest.0b0cb28ea98eda4a179ff884815b5847.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.c91675cc.chunk.css.map": "/static/css/main.c91675cc.chunk.css.map",
+    "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
+    "static/media/DragonEngineGif.gif": "/static/media/DragonEngineGif.0cfe661e.gif",
+    "static/media/contactMail.png": "/static/media/contactMail.d6d4086f.png",
+    "static/media/developerActivity.svg": "/static/media/developerActivity.59389695.svg",
+    "static/media/dragonengine.gif": "/static/media/dragonengine.57e4155e.gif",
+    "static/media/falloutgo.gif": "/static/media/falloutgo.ca393698.gif",
+    "static/media/fixitstewie.gif": "/static/media/fixitstewie.b060ef4d.gif",
+    "static/media/lemmings.png": "/static/media/lemmings.c681f771.png",
+    "static/media/litleorionengine.gif": "/static/media/litleorionengine.d80a053c.gif",
+    "static/media/logo.svg": "/static/media/logo.25bf045c.svg",
+    "static/media/manOnTable.svg": "/static/media/manOnTable.52be3144.svg",
+    "static/media/oniongalaxy.jpg": "/static/media/oniongalaxy.37f2856e.jpg",
+    "static/media/pixeldungeon_coop.png": "/static/media/pixeldungeon_coop.2f7249fb.png",
+    "static/media/skill.svg": "/static/media/skill.34409398.svg",
+    "static/media/sopra-icon.jpg": "/static/media/sopra-icon.e143a3ef.jpg",
+    "static/media/TalkCard.css": "/static/media/talksCardBack.de3da806.svg",
+    "static/media/twinlightsouls.gif": "/static/media/twinlightsouls.3dd5ef2b.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.afd6eb18.js",
+    "static/js/2.d8ab17b2.chunk.js",
+    "static/css/main.c91675cc.chunk.css",
+    "static/js/main.ef5248f1.chunk.js"
+  ]
+}
