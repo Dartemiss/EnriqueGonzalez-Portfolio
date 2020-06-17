@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/EnriqueGonzalez-Portfolio/static/css/main.9983c9ed.chunk.css",
+    "main.js": "/EnriqueGonzalez-Portfolio/static/js/main.decec0d1.chunk.js",
+    "main.js.map": "/EnriqueGonzalez-Portfolio/static/js/main.decec0d1.chunk.js.map",
+    "runtime-main.js": "/EnriqueGonzalez-Portfolio/static/js/runtime-main.c4c850ff.js",
+    "runtime-main.js.map": "/EnriqueGonzalez-Portfolio/static/js/runtime-main.c4c850ff.js.map",
+    "static/js/2.f4184e63.chunk.js": "/EnriqueGonzalez-Portfolio/static/js/2.f4184e63.chunk.js",
+    "static/js/2.f4184e63.chunk.js.map": "/EnriqueGonzalez-Portfolio/static/js/2.f4184e63.chunk.js.map",
+    "index.html": "/EnriqueGonzalez-Portfolio/index.html",
+    "precache-manifest.7f740f1a9f729b64b4a13380efa4ac0e.js": "/EnriqueGonzalez-Portfolio/precache-manifest.7f740f1a9f729b64b4a13380efa4ac0e.js",
+    "service-worker.js": "/EnriqueGonzalez-Portfolio/service-worker.js",
+    "static/css/main.9983c9ed.chunk.css.map": "/EnriqueGonzalez-Portfolio/static/css/main.9983c9ed.chunk.css.map",
+    "static/media/index.css": "/EnriqueGonzalez-Portfolio/static/media/Montserrat-Regular.ee653992.ttf",
+    "static/media/DragonEngineGif.gif": "/EnriqueGonzalez-Portfolio/static/media/DragonEngineGif.0cfe661e.gif",
+    "static/media/contactMail.png": "/EnriqueGonzalez-Portfolio/static/media/contactMail.d6d4086f.png",
+    "static/media/developerActivity.svg": "/EnriqueGonzalez-Portfolio/static/media/developerActivity.59389695.svg",
+    "static/media/dragonengine.gif": "/EnriqueGonzalez-Portfolio/static/media/dragonengine.57e4155e.gif",
+    "static/media/falloutgo.gif": "/EnriqueGonzalez-Portfolio/static/media/falloutgo.ca393698.gif",
+    "static/media/fixitstewie.gif": "/EnriqueGonzalez-Portfolio/static/media/fixitstewie.b060ef4d.gif",
+    "static/media/lemmings.png": "/EnriqueGonzalez-Portfolio/static/media/lemmings.c681f771.png",
+    "static/media/litleorionengine.gif": "/EnriqueGonzalez-Portfolio/static/media/litleorionengine.d80a053c.gif",
+    "static/media/logo.svg": "/EnriqueGonzalez-Portfolio/static/media/logo.25bf045c.svg",
+    "static/media/manOnTable.svg": "/EnriqueGonzalez-Portfolio/static/media/manOnTable.52be3144.svg",
+    "static/media/oniongalaxy.jpg": "/EnriqueGonzalez-Portfolio/static/media/oniongalaxy.37f2856e.jpg",
+    "static/media/pixeldungeon_coop.png": "/EnriqueGonzalez-Portfolio/static/media/pixeldungeon_coop.2f7249fb.png",
+    "static/media/skill.svg": "/EnriqueGonzalez-Portfolio/static/media/skill.34409398.svg",
+    "static/media/sopra-icon.jpg": "/EnriqueGonzalez-Portfolio/static/media/sopra-icon.e143a3ef.jpg",
+    "static/media/TalkCard.css": "/EnriqueGonzalez-Portfolio/static/media/talksCardBack.de3da806.svg",
+    "static/media/twinlightsouls.gif": "/EnriqueGonzalez-Portfolio/static/media/twinlightsouls.3dd5ef2b.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c4c850ff.js",
+    "static/js/2.f4184e63.chunk.js",
+    "static/css/main.9983c9ed.chunk.css",
+    "static/js/main.decec0d1.chunk.js"
+  ]
+}
